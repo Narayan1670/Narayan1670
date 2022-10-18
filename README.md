@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Narayan1670
-- 👀 I’m interested in Backend Development With JavScript
 - 🌱 I’m currently learning full-Stack Developemnt With JavaScript and TypeScript.
 
 
